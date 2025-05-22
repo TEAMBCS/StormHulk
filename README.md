@@ -61,11 +61,12 @@ Command 2 (Advanced with proxy & GET method):
 Example targets.txt:
 ---------------------
 https://example.com
-http://victim.site/page
+
 
 Example proxy.txt:
 ---------------------
 http://123.45.67.89:8080
+
 socks5://98.76.54.32:1080
 
 >> DISCLAIMER:
